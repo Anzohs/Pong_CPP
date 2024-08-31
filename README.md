@@ -8,7 +8,7 @@ How to compile:
 ```bash
 c++ *.cpp -lraylib -I path/to_raylib -std=c++
 ```
-In the future I will creat an Make File
+In the future I will creat an Makefile
 
 
 How to play:
